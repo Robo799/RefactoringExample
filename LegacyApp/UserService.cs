@@ -24,7 +24,7 @@ namespace LegacyApp
             if (string.IsNullOrWhiteSpace(firstName) || string.IsNullOrWhiteSpace(lastName))
                 return false;
 
-            if (!email.Contains("@") || !email.Contains("."))
+            if (!email.Contains("@") && !email.Contains("."))
                 return false;
 
             var now = DateTime.Now;
