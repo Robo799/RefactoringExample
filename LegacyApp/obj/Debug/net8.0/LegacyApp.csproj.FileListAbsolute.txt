@@ -1,0 +1,11 @@
+C:\Users\Oleksandr\Downloads\zadanie (2)\zadanie\LegacyApp\bin\Debug\net8.0\LegacyApp.deps.json
+C:\Users\Oleksandr\Downloads\zadanie (2)\zadanie\LegacyApp\bin\Debug\net8.0\LegacyApp.dll
+C:\Users\Oleksandr\Downloads\zadanie (2)\zadanie\LegacyApp\bin\Debug\net8.0\LegacyApp.pdb
+C:\Users\Oleksandr\Downloads\zadanie (2)\zadanie\LegacyApp\obj\Debug\net8.0\LegacyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleksandr\Downloads\zadanie (2)\zadanie\LegacyApp\obj\Debug\net8.0\LegacyApp.AssemblyInfoInputs.cache
+C:\Users\Oleksandr\Downloads\zadanie (2)\zadanie\LegacyApp\obj\Debug\net8.0\LegacyApp.AssemblyInfo.cs
+C:\Users\Oleksandr\Downloads\zadanie (2)\zadanie\LegacyApp\obj\Debug\net8.0\LegacyApp.csproj.CoreCompileInputs.cache
+C:\Users\Oleksandr\Downloads\zadanie (2)\zadanie\LegacyApp\obj\Debug\net8.0\LegacyApp.dll
+C:\Users\Oleksandr\Downloads\zadanie (2)\zadanie\LegacyApp\obj\Debug\net8.0\refint\LegacyApp.dll
+C:\Users\Oleksandr\Downloads\zadanie (2)\zadanie\LegacyApp\obj\Debug\net8.0\LegacyApp.pdb
+C:\Users\Oleksandr\Downloads\zadanie (2)\zadanie\LegacyApp\obj\Debug\net8.0\ref\LegacyApp.dll
